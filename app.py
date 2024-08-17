@@ -9,7 +9,7 @@ from dotenv import load_dotenv
 import utils
 
 # Login Page
-utils.setup_page("ChatGPT Playground")
+utils.setup_page("Image Generation")
 
 # Load environment variables for OpenAI API configurations
 load_dotenv()
